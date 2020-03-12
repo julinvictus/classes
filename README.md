@@ -12,6 +12,7 @@ Carnivore > Canidae > Dog
 
 Carnivore > Canidae > Wolf
 
+
 Animals inherit characteristics:
 
 Instance variables:
@@ -29,6 +30,7 @@ Instance methods:
 `talk`
 
 `is_hungry`
+
 
 `Human` can adopt an animal
 
